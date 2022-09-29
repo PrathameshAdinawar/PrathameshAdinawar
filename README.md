@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathameshAdinawar
 - 👀 I’m interested in learning github
-- 🌱 I’m currently learning COmputers in B.tech
+- 🌱 I’m currently learning Computers in B.tech
 - 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me -> prathamesh.adi1@gmail.com
 
