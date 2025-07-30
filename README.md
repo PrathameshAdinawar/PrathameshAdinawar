@@ -12,7 +12,7 @@
 - 🔭 Learning AI & ML from scratch (💚 suggestions welcome!)  
 - 🛠️ I’ve done internships in **Android**, **Web Dev**, and **Java Full Stack**  
 - 🌱 Exploring DSA + System Design to become job-ready  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/prathameshadinawar) | [Portfolio](https://prathameshadinawar.netlify.app/)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/prathamesh-adinawar-77a500209) | [Portfolio](https://prathameshadinawar.netlify.app/)
 
 ---
 
