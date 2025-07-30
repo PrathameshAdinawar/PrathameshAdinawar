@@ -9,10 +9,13 @@
 
 - 🎓 2024 Computer Engineering Graduate  
 - 💡 Currently building **full-stack web apps** using `Spring Boot + React`  
-- 🔭 Learning AI & ML from scratch (💚 suggestions welcome!)  
-- 🛠️ I’ve done internships in **Android**, **Web Dev**, and **Java Full Stack**  
-- 🌱 Exploring DSA + System Design to become job-ready  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/prathamesh-adinawar-77a500209) | [Portfolio](https://prathameshadinawar.netlify.app/)
+- 🧠 Exploring **GenAI**, **AI/ML**, and how tech shapes the world  
+- 🔭 I’ve done internships in **Android**, **Web Dev**, and **Java Full Stack**  
+- 🌱 Learning DSA + System Design + Low-Level Design  
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/prathamesh-adinawar-77a500209) | [Portfolio](https://prathameshadinawar.netlify.app/)
+
+> **"The clarity of vision is more important than the intensity of effort."** 🌟  
+> *– A quote I live by*
 
 ---
 
@@ -28,10 +31,10 @@
 `MySQL` | `PostgreSQL`
 
 #### 🌐 Tools & Platforms  
-`Git` | `GitHub` | `Postman` | `VS Code` | `Netlify` | `Tomcat`
+`Git` | `GitHub` | `Postman` | `VS Code` | `Netlify` | `Cursor AI`
 
 #### ☁️ Currently Learning  
-`AI/ML`, `Spring Security`, `React Hooks`, `Microservices`
+`GenAI`, `AI/ML`, `Spring Security`, `NextJS`, `Microservices`
 
 ---
 
@@ -45,9 +48,9 @@
 
 ### 🚀 Let's Connect
 
-<a href="https://linkedin.com/in/prathameshadinawar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://linkedin.com/in/prathamesh-adinawar-77a500209"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://prathameshadinawar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel" /></a>
 
 ---
 
-*“Code is not just code. It’s your story of building, learning, failing, and rising again.”* ✨
+*“Code is not just code. It’s your story of building, learning, failing, and rising again.”* ✨  
