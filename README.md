@@ -1,56 +1,88 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Adinawar</h1>
-<h3 align="center">🚀 Software Developer | 💻 Java & Spring Boot | ⚛️ ReactJS Enthusiast</h3>
+<div align="center">
+  <h1 align="center">Hi there, I'm Prathamesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E91FC&center=true&vCenter=true&width=500&lines=Building+Scalable+Spring+Apps;ReactJS+%2B+Cloud+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
 
----
+  <br/>
+  
+  <a href="https://linkedin.com/in/prathamesh-adinawar-77a500209">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://prathameshadinawar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white&color=black" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<br/>
 
-### 🙋‍♂️ About Me
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <br>
+      <ul>
+        <li>🎓 <b>2024 Graduate</b> in Computer Engineering</li>
+        <li>💡 Specialized in <b>Spring Boot & ReactJS</b></li>
+        <li>🔭 Previously interned in <b>Android & Web Dev</b></li>
+        <li>🌱 Currently exploring <b>GenAI & System Design</b></li>
+        <li>📍 Based in <b>India</b> 🇮🇳</li>
+        <li>⚡ <b>Fun Fact:</b> I prefer code clarity over complexity!</li>
+      </ul>
+      <br>
+      <a href="https://github.com/prathameshadinawar?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore_My_Repos-2E91FC?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="45%" valign="center" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-705c7425-6385-4424-9b93-5777a8e74944.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- 🎓 2024 Computer Engineering Graduate  
-- 💡 Currently building **full-stack web apps** using `Spring Boot + React`  
-- 🧠 Exploring **GenAI**, **AI/ML**, and how tech shapes the world  
-- 🔭 I’ve done internships in **Android**, **Web Dev**, and **Java Full Stack**  
-- 🌱 Learning DSA + System Design + Low-Level Design  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/prathamesh-adinawar-77a500209) | [Portfolio](https://prathameshadinawar.netlify.app/)
+<br/>
 
-> **"The clarity of vision is more important than the intensity of effort."** 🌟  
-> *– A quote I live by*
+<div align="center">
+  <h2>🛠️ Technologies</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,postgres,git,github,vscode,postman,netlify&perline=14" />
+  </a>
+</div>
 
----
+<br/>
 
-### 🧰 Tech Stack
+<h2>🚀 Featured Projects</h2>
 
-#### 💻 Languages  
-`Java` | `JavaScript` | `HTML` | `CSS` | `SQL`
+| Project | Tech Stack | Type |
+| :--- | :--- | :--- |
+| **💰 Finance Tracker** | `React` `Spring Boot` `PostgreSQL` | **Full Stack** |
+| **❤️ Lovable Clone** | `Java` `Spring Boot` `REST API` | **Backend** |
+| **📱 Android Suite** | `Java` `XML` `Android Studio` | **Mobile App** |
 
-#### ⚙️ Frameworks & Libraries  
-`Spring Boot` | `ReactJS` | `Bootstrap` | `JSP/Servlet`
+<br/>
 
-#### 🗄️ Databases  
-`MySQL` | `PostgreSQL`
+<div align="center">
+  <h2>📈 Coding Activity</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshadinawar&show_icons=true&theme=transparent&hide_border=true&title_color=2E91FC&text_color=808080&icon_color=2E91FC" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshadinawar&theme=transparent&hide_border=true&currStreakLabel=2E91FC" height="150" alt="streak" />
+</div>
 
-#### 🌐 Tools & Platforms  
-`Git` | `GitHub` | `Postman` | `VS Code` | `Netlify` | `Cursor AI`
+<br/>
 
-#### ☁️ Currently Learning  
-`GenAI`, `AI/ML`, `Spring Security`, `NextJS`, `Microservices`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshadinawar&layout=compact&theme=transparent&hide_border=true&title_color=2E91FC&text_color=808080" />
+</div>
 
----
+<br/>
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshadinawar&show_icons=true&theme=radical" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshadinawar&theme=radical" alt="streak" width="48%" />
-</p>
-
----
-
-### 🚀 Let's Connect
-
-<a href="https://linkedin.com/in/prathamesh-adinawar-77a500209"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://prathameshadinawar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel" /></a>
-
----
-
-*“Code is not just code. It’s your story of building, learning, failing, and rising again.”* ✨  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <br>
+  <i>"The clarity of vision is more important than the intensity of effort."</i> ✨
+</div>
