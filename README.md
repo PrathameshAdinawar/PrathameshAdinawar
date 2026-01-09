@@ -55,14 +55,16 @@
 
 <br/>
 
-<h2>🚀 Featured Projects</h2>
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
 
 | Project | Tech Stack | Type |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | **💰 Finance Tracker** | `React` `Spring Boot` `PostgreSQL` | **Full Stack** |
 | **❤️ Lovable Clone** | `Java` `Spring Boot` `REST API` | **Backend** |
-| **📱 Android Suite** | `Java` `XML` `Android Studio` | **Mobile App** |
+| **🔹 Dynamic Web Apps** | `Java` `JSP/Servlet` `MySQL` | **CRUD App** |
 
+</div>
 <br/>
 
 <div align="center">
