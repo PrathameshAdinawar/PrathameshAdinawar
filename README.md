@@ -5,18 +5,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E91FC&center=true&vCenter=true&width=500&lines=Building+Scalable+Spring+Apps;ReactJS+%2B+Cloud+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
   
   <a href="https://linkedin.com/in/prathamesh-adinawar-77a500209">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
   </a>
-  &nbsp;
-  <a href="https://prathameshadinawar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white&color=black" height="30" />
+  &nbsp; <a href="https://prathameshadinawar.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
   </a>
 </div>
 
@@ -24,9 +23,8 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="center">
       <h2>👨‍💻 About Me</h2>
-      <br>
       <ul>
         <li>🎓 <b>2024 Graduate</b> in Computer Engineering</li>
         <li>💡 Specialized in <b>Spring Boot & ReactJS</b></li>
@@ -41,7 +39,7 @@
       </a>
     </td>
     <td width="45%" valign="center" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-705c7425-6385-4424-9b93-5777a8e74944.gif" width="100%" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding animation"/>
     </td>
   </tr>
 </table>
@@ -69,20 +67,21 @@
 
 <div align="center">
   <h2>📈 Coding Activity</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshadinawar&show_icons=true&theme=transparent&hide_border=true&title_color=2E91FC&text_color=808080&icon_color=2E91FC" height="150" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshadinawar&theme=transparent&hide_border=true&currStreakLabel=2E91FC" height="150" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshadinawar&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshadinawar&theme=radical&hide_border=true" height="150" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshadinawar&layout=compact&theme=transparent&hide_border=true&title_color=2E91FC&text_color=808080" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshadinawar&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
+  
+ 
+  <i>"The clarity of vision is more important than the intensity of effort."</i> ✨ 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-  <br>
-  <i>"The clarity of vision is more important than the intensity of effort."</i> ✨
 </div>
